@@ -1,3 +1,3 @@
 # Analise_De_Dados
  
-Nesta pasta você poderá ver alguns trabalhos/projetos que foi usada a habilidade de analise de dados usando como principal ferramenta o pandas e as suas ferramentas 
+Nesta pasta você poderá ver um projeto de analise de dados e as formas que usei para resolver os problemas que me foram impostos usando como principal ferramenta o pandas . 
